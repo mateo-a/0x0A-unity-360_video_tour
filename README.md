@@ -1,6 +1,6 @@
 # 0x0A-unity-360_video_tour
 
->In this project I create a 360 video VR tour using Unity.
+In this project I create a 360 video VR tour using Unity.
 
 ---
 ## Concepts
