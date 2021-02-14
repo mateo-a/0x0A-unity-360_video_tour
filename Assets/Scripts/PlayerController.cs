@@ -3,7 +3,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
+    /// <summary>
+    /// Start is called before the first frame update
+    /// </summary>
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
